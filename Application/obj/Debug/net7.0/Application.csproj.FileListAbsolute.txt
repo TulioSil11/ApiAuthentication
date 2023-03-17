@@ -1,0 +1,24 @@
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\bin\Debug\net7.0\Application.dll
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\Application.dll
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\Learn .NET 6\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\bin\Debug\net7.0\Application.dll
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\Application.dll
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\thudi\Desktop\Estudos\Programação\Plano de Estudo\02 - Learn the basic of C# 10\ApiAuthentication\Application\obj\Debug\net7.0\ref\Application.dll
